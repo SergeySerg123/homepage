@@ -1,7 +1,7 @@
 const playBtn = document.querySelector('#meh');
 
 playBtn.addEventListener('click', () => {
-    const a = new Audio('./assets/sounds/meh.mp3');
+    let a = new Audio('./assets/sounds/meh.mp3');
     a.play();
 });
 
