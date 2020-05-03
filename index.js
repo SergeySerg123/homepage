@@ -1,4 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const main = document.querySelector('#main');
-    main.classList.add('show-main-content');
+    setTimeout(() => {
+        main.classList.add('show-main-content');
+    }, 2000)
+    
 });
