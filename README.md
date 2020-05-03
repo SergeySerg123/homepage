@@ -1,6 +1,6 @@
 # Homepage
 My very own personal website. Basically this is just a résumé.
 
-npm start
+    npm start
 
 🧙Hocus-pocus!
