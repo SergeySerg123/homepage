@@ -1,0 +1,24 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "My very own personal website. Basically this is just a résumé.",
+  "main": "index.js",
+  "dependencies": {
+    "serve": "^11.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeySerg123/homepage.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeySerg123/homepage/issues"
+  },
+  "homepage": "https://github.com/SergeySerg123/homepage#readme"
+}
